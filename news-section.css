@@ -8,10 +8,14 @@
   padding-bottom: 5.25rem;
 }
 
-.featured-article {
-  position: relative;
+.featured-article__link {
   width: 47.5%;
   margin: 0 1.25% 3.5rem;
+  display: flex;
+}
+
+.featured-article {
+  position: relative;
 
   display: flex;
   flex-direction: column;
