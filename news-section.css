@@ -5,11 +5,12 @@
 
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 5.25rem;
 }
 
 .featured-article {
   width: 47.5%;
-  margin: 0 1.25%;
+  margin: 0 1.25% 3.5rem;
 }
 
 .featured-article__image {
