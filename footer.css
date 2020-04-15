@@ -1,3 +1,13 @@
 section {
   display: none;
 }
+
+body {
+  position: relative;
+  min-height: 100vh;
+}
+
+.page-footer {
+  position: absolute;
+  bottom: 0;
+}
