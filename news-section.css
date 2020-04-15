@@ -2,4 +2,12 @@
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.featured-article {
+  width: 47.5%;
+  margin: 0 1.25%;
 }
