@@ -13,7 +13,8 @@
   line-height: 24px;
   font-family: sans-serif;
   text-decoration: none;
-  margin-left: 64px;
+  margin-left: 40px;
+  padding: 24px;
   transition: color 0.4s;
 }
 
