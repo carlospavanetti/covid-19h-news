@@ -16,3 +16,13 @@ body {
   background-color: navy;
   text-align: center;
 }
+
+.page-footer__link {
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+.page-footer__link:hover {
+  opacity: 0.8;
+}
