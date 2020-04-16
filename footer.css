@@ -14,13 +14,10 @@ body {
 }
 
 .page-footer__link {
+  color: inherit;
   font-weight: bold;
 }
 
 .page-footer__link:hover {
   opacity: 0.8;
-}
-
-.page-footer__link:visited {
-  color: inherit;
 }
