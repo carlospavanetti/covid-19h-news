@@ -14,3 +14,19 @@ body.about-page {
 .about__photo {
   height: var(--about-main-height);
 }
+
+.about-text {
+  overflow-y: auto;
+  padding: 3.5rem 10.5rem;
+}
+
+.about-text__header {
+  margin: 0 0 1.75rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #c4170c;
+}
+
+.about-text__paragraph {
+  margin-bottom: 1.75rem;
+}
