@@ -8,6 +8,16 @@
   padding-bottom: 5.25rem;
 }
 
+.news__header {
+  width: 100%;
+  color: #c4170c;
+  font-size: 3rem;
+  line-height: 7rem;
+  font-weight: bold;
+  margin: 0 1rem 1.75rem;
+  border-bottom: 5px solid #bfbfbf;
+}
+
 .featured-article__link {
   width: 47.5%;
   margin: 0 1.25% 3.5rem;
