@@ -1,0 +1,11 @@
+body.about-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  --about-main-height: calc(100vh - 10.5rem);
+}
+
+.about {
+  height: var(--about-main-height);
+}
