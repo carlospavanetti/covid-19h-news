@@ -8,4 +8,9 @@ body.about-page {
 
 .about {
   height: var(--about-main-height);
+  display: flex;
+}
+
+.about__photo {
+  height: var(--about-main-height);
 }
